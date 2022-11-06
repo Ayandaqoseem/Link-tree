@@ -38,7 +38,7 @@ function Home() {
             <h2
               className='font-bold text-base'
             >
-              @ayandaQoseem
+              Ayanda Qoseem
             </h2>
           </div> 
           <div id="slack">
@@ -110,6 +110,14 @@ function Home() {
             href="https://books.zuri.team/design-rules"
           >
             Design Books
+          </a>
+          <a 
+            className='bg-gray-300 px-24 py-4 rounded text-sm tracking-[.35em] whitespace-nowrap mt-5
+            md:px-80 md:whitespace-nowrap lg:px-96 lg:tracking-[.45em]' 
+            id='contact' 
+            href="/contact"
+          >
+            Contact
           </a>
           <div className="social pt-12 pb-32  sm:pb-6 flex justify-center items-center gap-6">
           <a href="/">
