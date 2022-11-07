@@ -116,6 +116,8 @@ function Home() {
             md:px-80 md:whitespace-nowrap lg:px-96 lg:tracking-[.45em]' 
             id='contact' 
             href="/contact"
+            target='_blank'
+            rel='noreferrer' 
           >
             Contact
           </a>
